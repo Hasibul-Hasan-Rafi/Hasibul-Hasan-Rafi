@@ -45,7 +45,9 @@
 
 </div>
 
-<img align="right" width="260" src="./assets/rafi-ascii.png" alt="ASCII Art Portrait of Hasibul Hasan Rafi"/>
+<img align="right" width="260"
+src="./rafi-ascii.png"
+alt="ASCII Art Portrait of Hasibul Hasan Rafi"/>
 
 ### Hello, I'm Md. Hasibul Hasan Rafi 👋
 
