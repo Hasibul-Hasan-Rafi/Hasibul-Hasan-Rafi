@@ -45,9 +45,9 @@
 
 </div>
 
-<img align="right" width="260" src="https://github.com/Hasibul-Hasan-Rafi.png" alt="Md. Hasibul Hasan Nadim Rafi"/>
+<img align="right" width="260" src="./assets/rafi-ascii.png" alt="ASCII Art Portrait of Hasibul Hasan Rafi"/>
 
-### Hello, I'm Hasibul Hasan Rafi 👋
+### Hello, I'm Md. Hasibul Hasan Rafi 👋
 
 I am a Software Engineering undergraduate majoring in Cybersecurity at **Daffodil International University, Bangladesh**.
 
